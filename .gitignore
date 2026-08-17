@@ -221,3 +221,8 @@ __marimo__/
 # Directories to ignore
 output/
 weights/
+architecture/
+
+
+# files to ignore
+perception_architecture_context.md
